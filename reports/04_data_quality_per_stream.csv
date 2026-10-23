@@ -1,0 +1,19 @@
+﻿stream_id,file,error,keys,shape,dtype,valid_shape,frames,timestamp_length_ok,timestamp_finite,duplicate_or_backward_t,large_time_gaps,median_dt,duration_s,t_min,t_max,radar_serials_present,radar_serials,nan_count,inf_count,affected_frames,all_zero_frames,event_count,events_outside_stream
+train_stream_00,streams\train\stream_00.h5,,"cir, radar_serials, t","(3, 88117, 368)",float32,True,88117,True,True,0,0,0.01999999999998181,1762.32,0.0,1762.32,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_01,streams\train\stream_01.h5,,"cir, radar_serials, t","(3, 88147, 368)",float32,True,88147,True,True,0,0,0.01999999999998181,1762.92,0.0,1762.92,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_02,streams\train\stream_02.h5,,"cir, radar_serials, t","(3, 85923, 368)",float32,True,85923,True,True,0,0,0.01999999999998181,1718.44,0.0,1718.44,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_03,streams\train\stream_03.h5,,"cir, radar_serials, t","(3, 88085, 368)",float32,True,88085,True,True,0,0,0.01999999999998181,1761.68,0.0,1761.68,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_04,streams\train\stream_04.h5,,"cir, radar_serials, t","(3, 88243, 368)",float32,True,88243,True,True,0,0,0.01999999999998181,1764.8400000000001,0.0,1764.8400000000001,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_05,streams\train\stream_05.h5,,"cir, radar_serials, t","(3, 88327, 368)",float32,True,88327,True,True,0,0,0.01999999999998181,1766.52,0.0,1766.52,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_06,streams\train\stream_06.h5,,"cir, radar_serials, t","(3, 88356, 368)",float32,True,88356,True,True,0,0,0.01999999999998181,1767.1000000000001,0.0,1767.1000000000001,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_07,streams\train\stream_07.h5,,"cir, radar_serials, t","(3, 88311, 368)",float32,True,88311,True,True,0,0,0.01999999999998181,1766.2,0.0,1766.2,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_08,streams\train\stream_08.h5,,"cir, radar_serials, t","(3, 88371, 368)",float32,True,88371,True,True,0,0,0.01999999999998181,1767.4,0.0,1767.4,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_09,streams\train\stream_09.h5,,"cir, radar_serials, t","(3, 88103, 368)",float32,True,88103,True,True,0,0,0.01999999999998181,1762.04,0.0,1762.04,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_10,streams\train\stream_10.h5,,"cir, radar_serials, t","(3, 88014, 368)",float32,True,88014,True,True,0,0,0.01999999999998181,1760.26,0.0,1760.26,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_11,streams\train\stream_11.h5,,"cir, radar_serials, t","(3, 87941, 368)",float32,True,87941,True,True,0,0,0.01999999999998181,1758.8,0.0,1758.8,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+train_stream_12,streams\train\stream_12.h5,,"cir, radar_serials, t","(3, 56797, 368)",float32,True,56797,True,True,0,0,0.01999999999998181,1135.92,0.0,1135.92,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+val_stream_00,streams\val\stream_00.h5,,"cir, radar_serials, t","(3, 88189, 368)",float32,True,88189,True,True,0,0,0.01999999999998181,1763.76,0.0,1763.76,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+val_stream_01,streams\val\stream_01.h5,,"cir, radar_serials, t","(3, 88421, 368)",float32,True,88421,True,True,0,0,0.01999999999998181,1768.4,0.0,1768.4,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+val_stream_02,streams\val\stream_02.h5,,"cir, radar_serials, t","(3, 88084, 368)",float32,True,88084,True,True,0,0,0.01999999999998181,1761.66,0.0,1761.66,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+val_stream_03,streams\val\stream_03.h5,,"cir, radar_serials, t","(3, 88526, 368)",float32,True,88526,True,True,0,0,0.01999999999998181,1770.5,0.0,1770.5,True,"[29171, 29444, 30722]",0,0,0,0,0,0
+val_stream_04,streams\val\stream_04.h5,,"cir, radar_serials, t","(3, 15570, 368)",float32,True,15570,True,True,0,0,0.019999999999999574,311.38,0.0,311.38,True,"[29171, 29444, 30722]",0,0,0,0,0,0
