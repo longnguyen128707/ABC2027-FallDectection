@@ -1,0 +1,18 @@
+# Dataset radar
+streams/
+segments/
+data/
+*.h5
+*.zip
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output
+models/
+results/
