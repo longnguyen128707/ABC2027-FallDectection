@@ -1,0 +1,4863 @@
+{
+  "analysis": {
+    "streams": [
+      {
+        "stream_id": "train_00",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_00.h5",
+        "duration_s": 1762.34,
+        "n_frames": 88117,
+        "n_events": 30,
+        "event_categories": {
+          "normal": 15,
+          "low": 7,
+          "needs_review": 6,
+          "low_needs_review": 2
+        },
+        "energy_mean": 0.00029664372262373686,
+        "energy_std": 5.726961484105173e-05,
+        "energy_min": 0.00019004131601500253,
+        "energy_p90": 0.00036860247494148517,
+        "energy_p95": 0.00040694873421975376,
+        "energy_p99": 0.0005238436521997529,
+        "max_energy": 0.001899043021945012,
+        "events": [
+          {
+            "event_id": "train_00_0017",
+            "t_start": 193.52,
+            "t_end": 195.58,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0020",
+            "t_start": 231.42,
+            "t_end": 233.02,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0021",
+            "t_start": 241.36,
+            "t_end": 243.36,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0026",
+            "t_start": 292.96,
+            "t_end": 294.68,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0030",
+            "t_start": 326.9,
+            "t_end": 327.58,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_00_0035",
+            "t_start": 391.76,
+            "t_end": 392.32,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_00_0047",
+            "t_start": 518.92,
+            "t_end": 520.12,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_00_0053",
+            "t_start": 598.86,
+            "t_end": 600.32,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0054",
+            "t_start": 609.7,
+            "t_end": 613.46,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0061",
+            "t_start": 686.3,
+            "t_end": 688.48,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_00_0064",
+            "t_start": 705.06,
+            "t_end": 707.44,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0067",
+            "t_start": 737.5,
+            "t_end": 738.42,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_00_0070",
+            "t_start": 772.98,
+            "t_end": 774.56,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_00_0074",
+            "t_start": 808.58,
+            "t_end": 809.76,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_00_0077",
+            "t_start": 848.44,
+            "t_end": 849.6,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_00_0078",
+            "t_start": 857.32,
+            "t_end": 859.32,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0080",
+            "t_start": 882.48,
+            "t_end": 884.54,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0094",
+            "t_start": 1062.7,
+            "t_end": 1063.7,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_00_0096",
+            "t_start": 1080.18,
+            "t_end": 1082.1,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_00_0101",
+            "t_start": 1147.62,
+            "t_end": 1149.62,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0104",
+            "t_start": 1186.52,
+            "t_end": 1188.04,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0113",
+            "t_start": 1401.82,
+            "t_end": 1403.32,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0114",
+            "t_start": 1413.36,
+            "t_end": 1414.66,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0121",
+            "t_start": 1506.36,
+            "t_end": 1509.36,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_00_0123",
+            "t_start": 1528.44,
+            "t_end": 1530.44,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_00_0125",
+            "t_start": 1548.9,
+            "t_end": 1550.18,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0129",
+            "t_start": 1578.76,
+            "t_end": 1580.44,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_00_0133",
+            "t_start": 1634.74,
+            "t_end": 1636.68,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_00_0138",
+            "t_start": 1694.62,
+            "t_end": 1696.02,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_00_0144",
+            "t_start": 1751.26,
+            "t_end": 1752.48,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_00_energy.png"
+      },
+      {
+        "stream_id": "train_01",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_01.h5",
+        "duration_s": 1762.94,
+        "n_frames": 88147,
+        "n_events": 29,
+        "event_categories": {
+          "normal": 17,
+          "low": 6,
+          "needs_review": 5,
+          "low_needs_review": 1
+        },
+        "energy_mean": 0.00030596608679307177,
+        "energy_std": 9.353008587484248e-05,
+        "energy_min": 0.00018956105509811106,
+        "energy_p90": 0.0003963790353073281,
+        "energy_p95": 0.00043602769013573726,
+        "energy_p99": 0.0006244126847520747,
+        "max_energy": 0.0012211653910107038,
+        "events": [
+          {
+            "event_id": "train_01_0004",
+            "t_start": 49.54,
+            "t_end": 51.7,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0005",
+            "t_start": 62.3,
+            "t_end": 63.48,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0009",
+            "t_start": 115.26,
+            "t_end": 116.7,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_01_0017",
+            "t_start": 193.66,
+            "t_end": 195.56,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_01_0018",
+            "t_start": 201.88,
+            "t_end": 205.62,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_01_0019",
+            "t_start": 213.74,
+            "t_end": 215.74,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0032",
+            "t_start": 375.9,
+            "t_end": 376.66,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_01_0035",
+            "t_start": 405.94,
+            "t_end": 410.06,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0037",
+            "t_start": 422.06,
+            "t_end": 423.04,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_01_0040",
+            "t_start": 450.44,
+            "t_end": 452.08,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0051",
+            "t_start": 583.64,
+            "t_end": 585.58,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_01_0055",
+            "t_start": 631.22,
+            "t_end": 632.78,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0067",
+            "t_start": 780.22,
+            "t_end": 782.22,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0074",
+            "t_start": 826.98,
+            "t_end": 828.02,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_01_0077",
+            "t_start": 857.3,
+            "t_end": 859.4,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_01_0078",
+            "t_start": 869.38,
+            "t_end": 871.72,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0080",
+            "t_start": 899.22,
+            "t_end": 900.26,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_01_0082",
+            "t_start": 921.42,
+            "t_end": 922.68,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_01_0098",
+            "t_start": 1120.96,
+            "t_end": 1122.44,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0105",
+            "t_start": 1213.84,
+            "t_end": 1214.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0107",
+            "t_start": 1235.3,
+            "t_end": 1236.48,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0114",
+            "t_start": 1415.98,
+            "t_end": 1417.78,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0118",
+            "t_start": 1453.98,
+            "t_end": 1456.02,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_01_0120",
+            "t_start": 1479.44,
+            "t_end": 1481.04,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0122",
+            "t_start": 1511.22,
+            "t_end": 1512.88,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0124",
+            "t_start": 1541.4,
+            "t_end": 1543.06,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0126",
+            "t_start": 1568.64,
+            "t_end": 1571.12,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_01_0137",
+            "t_start": 1687.14,
+            "t_end": 1690.12,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_01_0142",
+            "t_start": 1752.62,
+            "t_end": 1754.06,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_01_energy.png"
+      },
+      {
+        "stream_id": "train_02",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_02.h5",
+        "duration_s": 1718.46,
+        "n_frames": 85923,
+        "n_events": 25,
+        "event_categories": {
+          "normal": 17,
+          "low": 1,
+          "needs_review": 5,
+          "low_needs_review": 2
+        },
+        "energy_mean": 0.0002919227366337979,
+        "energy_std": 5.554387725676682e-05,
+        "energy_min": 0.0001821746652402932,
+        "energy_p90": 0.0003675154251316745,
+        "energy_p95": 0.0004105124899169805,
+        "energy_p99": 0.0005052515117484585,
+        "max_energy": 0.000622896108798953,
+        "events": [
+          {
+            "event_id": "train_02_0001",
+            "t_start": 16.12,
+            "t_end": 17.4,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0008",
+            "t_start": 91.32,
+            "t_end": 92.52,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_02_0012",
+            "t_start": 140.32,
+            "t_end": 142.32,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0020",
+            "t_start": 226.76,
+            "t_end": 231.26,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_02_0022",
+            "t_start": 258.28,
+            "t_end": 261.28,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0023",
+            "t_start": 276.62,
+            "t_end": 278.38,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0026",
+            "t_start": 320.72,
+            "t_end": 323.62,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0030",
+            "t_start": 366.14,
+            "t_end": 367.2,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0033",
+            "t_start": 400.16,
+            "t_end": 401.0,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_02_0035",
+            "t_start": 415.74,
+            "t_end": 416.94,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0037",
+            "t_start": 433.82,
+            "t_end": 434.98,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_02_0040",
+            "t_start": 470.26,
+            "t_end": 472.78,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0042",
+            "t_start": 499.92,
+            "t_end": 501.08,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0051",
+            "t_start": 610.3,
+            "t_end": 612.3,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_02_0057",
+            "t_start": 681.52,
+            "t_end": 683.4,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0079",
+            "t_start": 909.16,
+            "t_end": 912.92,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0080",
+            "t_start": 922.56,
+            "t_end": 927.12,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_02_0099",
+            "t_start": 1158.58,
+            "t_end": 1162.38,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0105",
+            "t_start": 1240.46,
+            "t_end": 1243.52,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0109",
+            "t_start": 1298.74,
+            "t_end": 1299.8,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0116",
+            "t_start": 1410.66,
+            "t_end": 1411.18,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_02_0125",
+            "t_start": 1500.9,
+            "t_end": 1502.32,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0128",
+            "t_start": 1531.16,
+            "t_end": 1532.3,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0130",
+            "t_start": 1553.5,
+            "t_end": 1554.84,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_02_0137",
+            "t_start": 1651.42,
+            "t_end": 1653.34,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_02_energy.png"
+      },
+      {
+        "stream_id": "train_03",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_03.h5",
+        "duration_s": 1761.7,
+        "n_frames": 88085,
+        "n_events": 29,
+        "event_categories": {
+          "normal": 17,
+          "low": 6,
+          "needs_review": 3,
+          "low_needs_review": 3
+        },
+        "energy_mean": 0.0002954657936633129,
+        "energy_std": 5.726119980526131e-05,
+        "energy_min": 0.00019550726340524842,
+        "energy_p90": 0.0003686014533026682,
+        "energy_p95": 0.00042586700642555146,
+        "energy_p99": 0.0004682307674735893,
+        "max_energy": 0.0009021956796543582,
+        "events": [
+          {
+            "event_id": "train_03_0003",
+            "t_start": 123.12,
+            "t_end": 125.18,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0005",
+            "t_start": 151.74,
+            "t_end": 153.36,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0007",
+            "t_start": 180.6,
+            "t_end": 181.8,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0008",
+            "t_start": 189.22,
+            "t_end": 191.22,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_03_0012",
+            "t_start": 248.02,
+            "t_end": 251.78,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_03_0013",
+            "t_start": 265.32,
+            "t_end": 267.28,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0015",
+            "t_start": 293.66,
+            "t_end": 294.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0018",
+            "t_start": 332.28,
+            "t_end": 334.06,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0021",
+            "t_start": 378.32,
+            "t_end": 379.78,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_03_0027",
+            "t_start": 436.04,
+            "t_end": 438.44,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_03_0033",
+            "t_start": 496.04,
+            "t_end": 496.78,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_03_0034",
+            "t_start": 509.94,
+            "t_end": 510.48,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_03_0035",
+            "t_start": 520.86,
+            "t_end": 522.24,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_03_0037",
+            "t_start": 546.46,
+            "t_end": 548.4,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0038",
+            "t_start": 557.86,
+            "t_end": 559.86,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0039",
+            "t_start": 568.56,
+            "t_end": 570.3,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0046",
+            "t_start": 647.2,
+            "t_end": 651.62,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_03_0047",
+            "t_start": 661.18,
+            "t_end": 663.66,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0054",
+            "t_start": 756.68,
+            "t_end": 760.42,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0063",
+            "t_start": 875.84,
+            "t_end": 877.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0064",
+            "t_start": 890.1,
+            "t_end": 891.64,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0087",
+            "t_start": 1319.02,
+            "t_end": 1320.9,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_03_0092",
+            "t_start": 1379.12,
+            "t_end": 1381.22,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0095",
+            "t_start": 1415.82,
+            "t_end": 1418.9,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_03_0102",
+            "t_start": 1469.36,
+            "t_end": 1473.32,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0111",
+            "t_start": 1592.62,
+            "t_end": 1594.72,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_03_0117",
+            "t_start": 1672.46,
+            "t_end": 1674.04,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0118",
+            "t_start": 1683.74,
+            "t_end": 1685.5,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_03_0122",
+            "t_start": 1730.0,
+            "t_end": 1731.16,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_03_energy.png"
+      },
+      {
+        "stream_id": "train_04",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_04.h5",
+        "duration_s": 1764.86,
+        "n_frames": 88243,
+        "n_events": 26,
+        "event_categories": {
+          "normal": 16,
+          "low": 2,
+          "needs_review": 7,
+          "low_needs_review": 1
+        },
+        "energy_mean": 0.00030541134063923324,
+        "energy_std": 8.68043756120087e-05,
+        "energy_min": 0.00018425801370539267,
+        "energy_p90": 0.00042889341372212445,
+        "energy_p95": 0.0004482206017573568,
+        "energy_p99": 0.0006458888604894817,
+        "max_energy": 0.0017253875068312726,
+        "events": [
+          {
+            "event_id": "train_04_0001",
+            "t_start": 17.46,
+            "t_end": 19.52,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_04_0007",
+            "t_start": 91.72,
+            "t_end": 93.8,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0021",
+            "t_start": 232.1,
+            "t_end": 234.2,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0022",
+            "t_start": 243.06,
+            "t_end": 244.76,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0024",
+            "t_start": 271.82,
+            "t_end": 273.0,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0025",
+            "t_start": 283.36,
+            "t_end": 285.48,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_04_0036",
+            "t_start": 374.74,
+            "t_end": 376.18,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0048",
+            "t_start": 530.38,
+            "t_end": 531.56,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_04_0051",
+            "t_start": 557.0,
+            "t_end": 559.5,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0053",
+            "t_start": 570.44,
+            "t_end": 572.24,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0055",
+            "t_start": 592.74,
+            "t_end": 594.84,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0076",
+            "t_start": 1052.92,
+            "t_end": 1054.98,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0083",
+            "t_start": 1149.8,
+            "t_end": 1151.8,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0087",
+            "t_start": 1191.66,
+            "t_end": 1195.36,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_04_0099",
+            "t_start": 1334.86,
+            "t_end": 1336.48,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0104",
+            "t_start": 1393.64,
+            "t_end": 1396.08,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0105",
+            "t_start": 1402.54,
+            "t_end": 1404.1,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_04_0108",
+            "t_start": 1435.8,
+            "t_end": 1438.5,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_04_0109",
+            "t_start": 1450.92,
+            "t_end": 1452.36,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0113",
+            "t_start": 1500.74,
+            "t_end": 1501.7,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_04_0120",
+            "t_start": 1596.16,
+            "t_end": 1597.26,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0122",
+            "t_start": 1612.52,
+            "t_end": 1613.58,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_04_0126",
+            "t_start": 1660.48,
+            "t_end": 1661.72,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_04_0127",
+            "t_start": 1670.88,
+            "t_end": 1672.88,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_04_0131",
+            "t_start": 1711.18,
+            "t_end": 1712.92,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_04_0134",
+            "t_start": 1741.88,
+            "t_end": 1744.14,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_04_energy.png"
+      },
+      {
+        "stream_id": "train_05",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_05.h5",
+        "duration_s": 1766.54,
+        "n_frames": 88327,
+        "n_events": 34,
+        "event_categories": {
+          "normal": 13,
+          "low": 10,
+          "needs_review": 5,
+          "low_needs_review": 6
+        },
+        "energy_mean": 0.00029781544835280036,
+        "energy_std": 9.546350565804605e-05,
+        "energy_min": 0.00017471629510307064,
+        "energy_p90": 0.0003517247990149984,
+        "energy_p95": 0.00042042476313135875,
+        "energy_p99": 0.0005674903644765342,
+        "max_energy": 0.001219188451868808,
+        "events": [
+          {
+            "event_id": "train_05_0000",
+            "t_start": 2.9,
+            "t_end": 4.2,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_05_0002",
+            "t_start": 32.7,
+            "t_end": 37.38,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0003",
+            "t_start": 46.3,
+            "t_end": 48.98,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0006",
+            "t_start": 82.58,
+            "t_end": 83.54,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_05_0009",
+            "t_start": 105.86,
+            "t_end": 109.12,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0014",
+            "t_start": 153.6,
+            "t_end": 155.14,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_05_0018",
+            "t_start": 204.3,
+            "t_end": 205.66,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0021",
+            "t_start": 239.58,
+            "t_end": 241.42,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0028",
+            "t_start": 309.82,
+            "t_end": 311.82,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0035",
+            "t_start": 365.18,
+            "t_end": 366.26,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_05_0041",
+            "t_start": 419.48,
+            "t_end": 420.44,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_05_0043",
+            "t_start": 442.84,
+            "t_end": 445.58,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0044",
+            "t_start": 454.52,
+            "t_end": 456.52,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0050",
+            "t_start": 523.1,
+            "t_end": 524.24,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_05_0051",
+            "t_start": 536.38,
+            "t_end": 537.44,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_05_0053",
+            "t_start": 556.04,
+            "t_end": 556.96,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_05_0054",
+            "t_start": 564.68,
+            "t_end": 567.56,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_05_0080",
+            "t_start": 825.7,
+            "t_end": 827.76,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0087",
+            "t_start": 900.42,
+            "t_end": 903.46,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0090",
+            "t_start": 923.86,
+            "t_end": 927.3,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_05_0091",
+            "t_start": 938.92,
+            "t_end": 941.64,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0093",
+            "t_start": 966.72,
+            "t_end": 967.96,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_05_0099",
+            "t_start": 1042.74,
+            "t_end": 1044.2,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0102",
+            "t_start": 1085.36,
+            "t_end": 1087.2,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_05_0105",
+            "t_start": 1123.62,
+            "t_end": 1124.94,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_05_0108",
+            "t_start": 1162.84,
+            "t_end": 1164.18,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_05_0109",
+            "t_start": 1173.9,
+            "t_end": 1176.0,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_05_0127",
+            "t_start": 1386.42,
+            "t_end": 1387.72,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_05_0128",
+            "t_start": 1395.76,
+            "t_end": 1397.44,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_05_0130",
+            "t_start": 1418.48,
+            "t_end": 1419.34,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_05_0134",
+            "t_start": 1457.24,
+            "t_end": 1459.96,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_05_0137",
+            "t_start": 1483.02,
+            "t_end": 1486.7,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_05_0142",
+            "t_start": 1549.62,
+            "t_end": 1552.1,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_05_0143",
+            "t_start": 1561.3,
+            "t_end": 1562.28,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_05_energy.png"
+      },
+      {
+        "stream_id": "train_06",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_06.h5",
+        "duration_s": 1767.12,
+        "n_frames": 88356,
+        "n_events": 27,
+        "event_categories": {
+          "normal": 14,
+          "low": 4,
+          "needs_review": 6,
+          "low_needs_review": 3
+        },
+        "energy_mean": 0.0002945123216705645,
+        "energy_std": 5.6977113793323905e-05,
+        "energy_min": 0.00020070002111764368,
+        "energy_p90": 0.0003618128331954267,
+        "energy_p95": 0.0004058127537730178,
+        "energy_p99": 0.00052468028937242,
+        "max_energy": 0.001748972952852234,
+        "events": [
+          {
+            "event_id": "train_06_0003",
+            "t_start": 33.88,
+            "t_end": 35.7,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0005",
+            "t_start": 64.66,
+            "t_end": 66.3,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0006",
+            "t_start": 75.82,
+            "t_end": 77.32,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0007",
+            "t_start": 83.22,
+            "t_end": 86.28,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_06_0016",
+            "t_start": 191.2,
+            "t_end": 192.4,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0027",
+            "t_start": 300.94,
+            "t_end": 303.78,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0036",
+            "t_start": 398.46,
+            "t_end": 401.64,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_06_0050",
+            "t_start": 586.72,
+            "t_end": 587.84,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0058",
+            "t_start": 661.26,
+            "t_end": 663.8,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0061",
+            "t_start": 690.7,
+            "t_end": 694.0,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_06_0064",
+            "t_start": 729.18,
+            "t_end": 730.36,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0070",
+            "t_start": 805.18,
+            "t_end": 807.38,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0073",
+            "t_start": 849.5,
+            "t_end": 850.92,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_06_0075",
+            "t_start": 868.06,
+            "t_end": 869.0,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_06_0077",
+            "t_start": 894.04,
+            "t_end": 895.26,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0080",
+            "t_start": 931.8,
+            "t_end": 932.86,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_06_0082",
+            "t_start": 958.94,
+            "t_end": 962.06,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_06_0085",
+            "t_start": 991.18,
+            "t_end": 992.02,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_06_0091",
+            "t_start": 1058.0,
+            "t_end": 1059.78,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_06_0092",
+            "t_start": 1069.88,
+            "t_end": 1073.06,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0095",
+            "t_start": 1100.72,
+            "t_end": 1101.8,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_06_0104",
+            "t_start": 1202.48,
+            "t_end": 1203.62,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_06_0117",
+            "t_start": 1400.2,
+            "t_end": 1402.2,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0119",
+            "t_start": 1423.38,
+            "t_end": 1424.94,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_06_0124",
+            "t_start": 1486.48,
+            "t_end": 1488.76,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_06_0127",
+            "t_start": 1522.18,
+            "t_end": 1524.88,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_06_0136",
+            "t_start": 1741.7,
+            "t_end": 1743.02,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_06_energy.png"
+      },
+      {
+        "stream_id": "train_07",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_07.h5",
+        "duration_s": 1766.22,
+        "n_frames": 88311,
+        "n_events": 25,
+        "event_categories": {
+          "normal": 12,
+          "low": 5,
+          "needs_review": 6,
+          "low_needs_review": 2
+        },
+        "energy_mean": 0.0003155083394014627,
+        "energy_std": 0.00010504920080590442,
+        "energy_min": 0.00017935002772999053,
+        "energy_p90": 0.00043335861952423905,
+        "energy_p95": 0.0004431972050993274,
+        "energy_p99": 0.0006205711669667124,
+        "max_energy": 0.0020510950298602707,
+        "events": [
+          {
+            "event_id": "train_07_0014",
+            "t_start": 162.24,
+            "t_end": 163.7,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0018",
+            "t_start": 198.18,
+            "t_end": 203.18,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0024",
+            "t_start": 266.06,
+            "t_end": 266.9,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_07_0026",
+            "t_start": 282.76,
+            "t_end": 283.26,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_07_0031",
+            "t_start": 336.52,
+            "t_end": 338.66,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0034",
+            "t_start": 376.42,
+            "t_end": 377.8,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_07_0043",
+            "t_start": 473.92,
+            "t_end": 475.84,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0046",
+            "t_start": 508.62,
+            "t_end": 510.8,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_07_0047",
+            "t_start": 523.0,
+            "t_end": 523.98,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_07_0055",
+            "t_start": 635.44,
+            "t_end": 636.42,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_07_0057",
+            "t_start": 661.22,
+            "t_end": 663.22,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0058",
+            "t_start": 674.22,
+            "t_end": 675.38,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_07_0066",
+            "t_start": 886.14,
+            "t_end": 887.74,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_07_0068",
+            "t_start": 910.38,
+            "t_end": 912.52,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0080",
+            "t_start": 1059.96,
+            "t_end": 1060.92,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_07_0083",
+            "t_start": 1092.16,
+            "t_end": 1092.98,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_07_0089",
+            "t_start": 1254.06,
+            "t_end": 1254.9,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_07_0090",
+            "t_start": 1263.22,
+            "t_end": 1264.62,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0093",
+            "t_start": 1293.38,
+            "t_end": 1295.76,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0107",
+            "t_start": 1442.26,
+            "t_end": 1444.26,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0108",
+            "t_start": 1454.36,
+            "t_end": 1456.38,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0112",
+            "t_start": 1497.34,
+            "t_end": 1500.04,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_07_0116",
+            "t_start": 1546.9,
+            "t_end": 1549.48,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0120",
+            "t_start": 1608.38,
+            "t_end": 1610.34,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_07_0126",
+            "t_start": 1678.14,
+            "t_end": 1680.2,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_07_energy.png"
+      },
+      {
+        "stream_id": "train_08",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_08.h5",
+        "duration_s": 1767.42,
+        "n_frames": 88371,
+        "n_events": 27,
+        "event_categories": {
+          "normal": 15,
+          "low": 5,
+          "needs_review": 5,
+          "low_needs_review": 2
+        },
+        "energy_mean": 0.0002964496171818895,
+        "energy_std": 6.017739370175748e-05,
+        "energy_min": 0.00019331912817469968,
+        "energy_p90": 0.0004019773277713888,
+        "energy_p95": 0.0004056424553997458,
+        "energy_p99": 0.0005629144161197455,
+        "max_energy": 0.0013169114799836772,
+        "events": [
+          {
+            "event_id": "train_08_0001",
+            "t_start": 13.54,
+            "t_end": 15.12,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_08_0011",
+            "t_start": 138.26,
+            "t_end": 140.2,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0013",
+            "t_start": 163.74,
+            "t_end": 165.82,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_08_0014",
+            "t_start": 177.24,
+            "t_end": 178.66,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0017",
+            "t_start": 218.9,
+            "t_end": 220.4,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0034",
+            "t_start": 439.5,
+            "t_end": 440.74,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0036",
+            "t_start": 458.96,
+            "t_end": 462.9,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_08_0039",
+            "t_start": 482.32,
+            "t_end": 484.2,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_08_0044",
+            "t_start": 545.72,
+            "t_end": 546.88,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0045",
+            "t_start": 558.06,
+            "t_end": 559.14,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_08_0051",
+            "t_start": 736.92,
+            "t_end": 738.58,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0055",
+            "t_start": 781.3,
+            "t_end": 782.3,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0060",
+            "t_start": 843.52,
+            "t_end": 844.26,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_08_0064",
+            "t_start": 887.26,
+            "t_end": 889.4,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_08_0070",
+            "t_start": 934.56,
+            "t_end": 936.8,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0072",
+            "t_start": 960.16,
+            "t_end": 961.22,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0074",
+            "t_start": 985.04,
+            "t_end": 986.34,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_08_0084",
+            "t_start": 1096.76,
+            "t_end": 1099.7,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_08_0086",
+            "t_start": 1121.78,
+            "t_end": 1123.0,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0088",
+            "t_start": 1139.88,
+            "t_end": 1142.3,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0092",
+            "t_start": 1197.7,
+            "t_end": 1198.58,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_08_0100",
+            "t_start": 1289.72,
+            "t_end": 1291.38,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_08_0103",
+            "t_start": 1324.86,
+            "t_end": 1326.0,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0128",
+            "t_start": 1647.62,
+            "t_end": 1650.66,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0130",
+            "t_start": 1674.56,
+            "t_end": 1676.3,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_08_0133",
+            "t_start": 1708.04,
+            "t_end": 1709.66,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_08_0134",
+            "t_start": 1721.38,
+            "t_end": 1723.64,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_08_energy.png"
+      },
+      {
+        "stream_id": "train_09",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_09.h5",
+        "duration_s": 1762.06,
+        "n_frames": 88103,
+        "n_events": 23,
+        "event_categories": {
+          "normal": 15,
+          "low": 2,
+          "needs_review": 5,
+          "low_needs_review": 1
+        },
+        "energy_mean": 0.0003014924383910366,
+        "energy_std": 7.44190266917281e-05,
+        "energy_min": 0.00020333692216054243,
+        "energy_p90": 0.00036607110016859796,
+        "energy_p95": 0.0004113903513250366,
+        "energy_p99": 0.0005767423622717637,
+        "max_energy": 0.002084878938164477,
+        "events": [
+          {
+            "event_id": "train_09_0000",
+            "t_start": 2.24,
+            "t_end": 3.68,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0005",
+            "t_start": 61.5,
+            "t_end": 63.96,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0007",
+            "t_start": 84.34,
+            "t_end": 85.58,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0015",
+            "t_start": 290.84,
+            "t_end": 292.16,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0020",
+            "t_start": 346.24,
+            "t_end": 347.56,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0024",
+            "t_start": 380.12,
+            "t_end": 381.4,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_09_0026",
+            "t_start": 401.12,
+            "t_end": 403.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0039",
+            "t_start": 511.06,
+            "t_end": 512.0,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_09_0040",
+            "t_start": 523.16,
+            "t_end": 525.92,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_09_0041",
+            "t_start": 535.62,
+            "t_end": 537.42,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_09_0042",
+            "t_start": 545.54,
+            "t_end": 547.12,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0044",
+            "t_start": 573.44,
+            "t_end": 575.44,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0046",
+            "t_start": 603.22,
+            "t_end": 604.82,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0048",
+            "t_start": 623.14,
+            "t_end": 625.14,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0051",
+            "t_start": 662.1,
+            "t_end": 664.1,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0056",
+            "t_start": 717.76,
+            "t_end": 718.92,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_09_0058",
+            "t_start": 742.94,
+            "t_end": 744.08,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_09_0075",
+            "t_start": 945.54,
+            "t_end": 947.56,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0088",
+            "t_start": 1102.22,
+            "t_end": 1103.92,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0094",
+            "t_start": 1173.5,
+            "t_end": 1175.14,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_09_0105",
+            "t_start": 1411.58,
+            "t_end": 1413.24,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_09_0115",
+            "t_start": 1631.76,
+            "t_end": 1633.22,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_09_0124",
+            "t_start": 1716.4,
+            "t_end": 1718.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_09_energy.png"
+      },
+      {
+        "stream_id": "train_10",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_10.h5",
+        "duration_s": 1760.28,
+        "n_frames": 88014,
+        "n_events": 27,
+        "event_categories": {
+          "normal": 8,
+          "low": 8,
+          "needs_review": 7,
+          "low_needs_review": 4
+        },
+        "energy_mean": 0.0002859026085367579,
+        "energy_std": 3.983599369056613e-05,
+        "energy_min": 0.00018943114955850544,
+        "energy_p90": 0.0003260943761671138,
+        "energy_p95": 0.00035274154384439395,
+        "energy_p99": 0.00045787079490239286,
+        "max_energy": 0.0008965468536626942,
+        "events": [
+          {
+            "event_id": "train_10_0025",
+            "t_start": 297.72,
+            "t_end": 299.26,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_10_0026",
+            "t_start": 308.14,
+            "t_end": 310.98,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_10_0039",
+            "t_start": 486.66,
+            "t_end": 490.28,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_10_0042",
+            "t_start": 530.42,
+            "t_end": 531.72,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_10_0046",
+            "t_start": 588.54,
+            "t_end": 589.44,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_10_0047",
+            "t_start": 597.94,
+            "t_end": 600.88,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_10_0050",
+            "t_start": 637.3,
+            "t_end": 638.38,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_10_0056",
+            "t_start": 699.82,
+            "t_end": 701.64,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_10_0060",
+            "t_start": 852.58,
+            "t_end": 853.38,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_10_0061",
+            "t_start": 863.14,
+            "t_end": 866.0,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_10_0063",
+            "t_start": 877.92,
+            "t_end": 878.98,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_10_0069",
+            "t_start": 944.3,
+            "t_end": 945.68,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_10_0073",
+            "t_start": 977.0,
+            "t_end": 979.22,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_10_0080",
+            "t_start": 1078.0,
+            "t_end": 1080.34,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_10_0087",
+            "t_start": 1163.12,
+            "t_end": 1164.64,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_10_0088",
+            "t_start": 1176.9,
+            "t_end": 1177.52,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_10_0089",
+            "t_start": 1188.08,
+            "t_end": 1189.74,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_10_0094",
+            "t_start": 1254.0,
+            "t_end": 1255.1,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_10_0097",
+            "t_start": 1286.6,
+            "t_end": 1288.58,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_10_0100",
+            "t_start": 1324.84,
+            "t_end": 1326.66,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_10_0101",
+            "t_start": 1334.1,
+            "t_end": 1336.22,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_10_0108",
+            "t_start": 1403.16,
+            "t_end": 1404.74,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_10_0109",
+            "t_start": 1414.52,
+            "t_end": 1415.24,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_10_0116",
+            "t_start": 1509.48,
+            "t_end": 1510.96,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_10_0123",
+            "t_start": 1583.9,
+            "t_end": 1585.6,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_10_0124",
+            "t_start": 1593.68,
+            "t_end": 1595.42,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_10_0129",
+            "t_start": 1750.76,
+            "t_end": 1751.72,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_10_energy.png"
+      },
+      {
+        "stream_id": "train_11",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_11.h5",
+        "duration_s": 1758.82,
+        "n_frames": 87941,
+        "n_events": 33,
+        "event_categories": {
+          "normal": 19,
+          "low": 8,
+          "needs_review": 3,
+          "low_needs_review": 3
+        },
+        "energy_mean": 0.0003093369040779252,
+        "energy_std": 0.00014900133921613162,
+        "energy_min": 0.00019094621509509798,
+        "energy_p90": 0.0003690487069169352,
+        "energy_p95": 0.00044980720304610937,
+        "energy_p99": 0.0012154159338738442,
+        "max_energy": 0.0023979885977339094,
+        "events": [
+          {
+            "event_id": "train_11_0000",
+            "t_start": 3.16,
+            "t_end": 4.34,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0001",
+            "t_start": 19.98,
+            "t_end": 21.16,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0013",
+            "t_start": 139.8,
+            "t_end": 143.54,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0016",
+            "t_start": 186.02,
+            "t_end": 187.56,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0018",
+            "t_start": 211.16,
+            "t_end": 212.88,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0024",
+            "t_start": 287.48,
+            "t_end": 289.96,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0035",
+            "t_start": 408.86,
+            "t_end": 409.8,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_11_0037",
+            "t_start": 430.46,
+            "t_end": 431.6,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_11_0038",
+            "t_start": 440.38,
+            "t_end": 441.74,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0046",
+            "t_start": 540.34,
+            "t_end": 542.26,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0054",
+            "t_start": 653.84,
+            "t_end": 654.74,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_11_0057",
+            "t_start": 688.08,
+            "t_end": 690.24,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0058",
+            "t_start": 699.02,
+            "t_end": 702.12,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_11_0066",
+            "t_start": 789.64,
+            "t_end": 791.42,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0067",
+            "t_start": 800.12,
+            "t_end": 802.0,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_11_0068",
+            "t_start": 817.42,
+            "t_end": 819.0,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_11_0069",
+            "t_start": 825.64,
+            "t_end": 827.26,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_11_0072",
+            "t_start": 867.92,
+            "t_end": 869.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0075",
+            "t_start": 896.78,
+            "t_end": 898.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0080",
+            "t_start": 979.08,
+            "t_end": 981.0,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0082",
+            "t_start": 1004.36,
+            "t_end": 1005.4,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_11_0084",
+            "t_start": 1020.78,
+            "t_end": 1024.3,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0091",
+            "t_start": 1100.84,
+            "t_end": 1101.76,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_11_0097",
+            "t_start": 1173.82,
+            "t_end": 1174.68,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_11_0098",
+            "t_start": 1186.52,
+            "t_end": 1187.86,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_11_0104",
+            "t_start": 1251.04,
+            "t_end": 1252.82,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_11_0109",
+            "t_start": 1327.5,
+            "t_end": 1329.74,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0119",
+            "t_start": 1429.64,
+            "t_end": 1431.24,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_11_0121",
+            "t_start": 1453.66,
+            "t_end": 1455.8,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0124",
+            "t_start": 1480.36,
+            "t_end": 1481.74,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_11_0130",
+            "t_start": 1577.56,
+            "t_end": 1578.56,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0138",
+            "t_start": 1670.12,
+            "t_end": 1671.22,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_11_0144",
+            "t_start": 1731.04,
+            "t_end": 1735.06,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_11_energy.png"
+      },
+      {
+        "stream_id": "train_12",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\train\\stream_12.h5",
+        "duration_s": 1135.94,
+        "n_frames": 56797,
+        "n_events": 24,
+        "event_categories": {
+          "normal": 8,
+          "low": 7,
+          "needs_review": 8,
+          "low_needs_review": 1
+        },
+        "energy_mean": 0.0002946006540604423,
+        "energy_std": 6.117933865678013e-05,
+        "energy_min": 0.00018616645606410413,
+        "energy_p90": 0.0003587698311902812,
+        "energy_p95": 0.00041390652701306895,
+        "energy_p99": 0.0005733934183637465,
+        "max_energy": 0.0008085914558265871,
+        "events": [
+          {
+            "event_id": "train_12_0000",
+            "t_start": 2.54,
+            "t_end": 3.44,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "train_12_0002",
+            "t_start": 28.76,
+            "t_end": 29.94,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_12_0003",
+            "t_start": 41.78,
+            "t_end": 43.0,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_12_0009",
+            "t_start": 96.82,
+            "t_end": 98.8,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_12_0019",
+            "t_start": 213.74,
+            "t_end": 216.66,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_12_0023",
+            "t_start": 269.32,
+            "t_end": 272.9,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_12_0024",
+            "t_start": 285.06,
+            "t_end": 286.1,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_12_0027",
+            "t_start": 316.26,
+            "t_end": 317.64,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_12_0031",
+            "t_start": 349.54,
+            "t_end": 351.3,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_12_0035",
+            "t_start": 412.98,
+            "t_end": 413.84,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_12_0036",
+            "t_start": 426.32,
+            "t_end": 428.04,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_12_0037",
+            "t_start": 440.32,
+            "t_end": 441.9,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_12_0043",
+            "t_start": 507.32,
+            "t_end": 508.42,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_12_0047",
+            "t_start": 545.56,
+            "t_end": 546.88,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_12_0049",
+            "t_start": 569.8,
+            "t_end": 571.84,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_12_0056",
+            "t_start": 660.3,
+            "t_end": 660.78,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_12_0059",
+            "t_start": 691.2,
+            "t_end": 692.26,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "train_12_0069",
+            "t_start": 787.3,
+            "t_end": 788.72,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_12_0071",
+            "t_start": 816.92,
+            "t_end": 818.92,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_12_0075",
+            "t_start": 869.38,
+            "t_end": 870.42,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_12_0077",
+            "t_start": 892.38,
+            "t_end": 895.52,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_12_0090",
+            "t_start": 1033.56,
+            "t_end": 1035.12,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "train_12_0095",
+            "t_start": 1074.38,
+            "t_end": 1078.36,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "train_12_0098",
+            "t_start": 1112.96,
+            "t_end": 1114.6,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\train_12_energy.png"
+      },
+      {
+        "stream_id": "val_00",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\val\\stream_00.h5",
+        "duration_s": 1763.78,
+        "n_frames": 88189,
+        "n_events": 34,
+        "event_categories": {
+          "normal": 21,
+          "low": 5,
+          "needs_review": 5,
+          "low_needs_review": 3
+        },
+        "energy_mean": 0.00031921530734587306,
+        "energy_std": 7.838829666128051e-05,
+        "energy_min": 0.0001966508532679782,
+        "energy_p90": 0.00042434494891473965,
+        "energy_p95": 0.0005193428870515167,
+        "energy_p99": 0.0006192248972426946,
+        "max_energy": 0.0009358196631535738,
+        "events": [
+          {
+            "event_id": "val_00_0002",
+            "t_start": 28.34,
+            "t_end": 29.12,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_00_0003",
+            "t_start": 37.9,
+            "t_end": 39.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0004",
+            "t_start": 50.52,
+            "t_end": 52.52,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0007",
+            "t_start": 89.06,
+            "t_end": 92.0,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_00_0011",
+            "t_start": 125.28,
+            "t_end": 127.26,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0015",
+            "t_start": 173.0,
+            "t_end": 174.58,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0017",
+            "t_start": 195.28,
+            "t_end": 197.42,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_00_0024",
+            "t_start": 273.92,
+            "t_end": 275.28,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0030",
+            "t_start": 340.12,
+            "t_end": 341.14,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0039",
+            "t_start": 467.68,
+            "t_end": 469.24,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0041",
+            "t_start": 493.52,
+            "t_end": 497.36,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_00_0046",
+            "t_start": 549.26,
+            "t_end": 550.94,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0048",
+            "t_start": 577.64,
+            "t_end": 579.72,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_00_0051",
+            "t_start": 601.26,
+            "t_end": 603.64,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_00_0056",
+            "t_start": 674.76,
+            "t_end": 677.48,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_00_0066",
+            "t_start": 781.48,
+            "t_end": 782.74,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_00_0068",
+            "t_start": 807.72,
+            "t_end": 810.46,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0069",
+            "t_start": 818.7,
+            "t_end": 820.78,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0071",
+            "t_start": 849.72,
+            "t_end": 851.12,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0072",
+            "t_start": 862.48,
+            "t_end": 864.74,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0077",
+            "t_start": 1025.44,
+            "t_end": 1027.0,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0078",
+            "t_start": 1039.46,
+            "t_end": 1041.92,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_00_0082",
+            "t_start": 1087.42,
+            "t_end": 1089.14,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_00_0088",
+            "t_start": 1140.92,
+            "t_end": 1142.6,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0091",
+            "t_start": 1164.38,
+            "t_end": 1168.6,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_00_0104",
+            "t_start": 1284.7,
+            "t_end": 1286.7,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0106",
+            "t_start": 1317.84,
+            "t_end": 1320.46,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0122",
+            "t_start": 1485.02,
+            "t_end": 1487.02,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0124",
+            "t_start": 1508.1,
+            "t_end": 1510.1,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0130",
+            "t_start": 1588.94,
+            "t_end": 1590.94,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0139",
+            "t_start": 1663.04,
+            "t_end": 1665.2,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0141",
+            "t_start": 1671.78,
+            "t_end": 1676.52,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_00_0142",
+            "t_start": 1683.88,
+            "t_end": 1688.28,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_00_0145",
+            "t_start": 1717.08,
+            "t_end": 1719.3,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\val_00_energy.png"
+      },
+      {
+        "stream_id": "val_01",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\val\\stream_01.h5",
+        "duration_s": 1768.42,
+        "n_frames": 88421,
+        "n_events": 31,
+        "event_categories": {
+          "normal": 18,
+          "low": 8,
+          "needs_review": 2,
+          "low_needs_review": 3
+        },
+        "energy_mean": 0.00031540999777133447,
+        "energy_std": 8.4032361915388e-05,
+        "energy_min": 0.00019180420257609537,
+        "energy_p90": 0.0004641108992919428,
+        "energy_p95": 0.0005277689006064848,
+        "energy_p99": 0.0006460663062704386,
+        "max_energy": 0.0015111497292574667,
+        "events": [
+          {
+            "event_id": "val_01_0005",
+            "t_start": 45.2,
+            "t_end": 46.44,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_01_0014",
+            "t_start": 135.68,
+            "t_end": 137.68,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_01_0018",
+            "t_start": 181.86,
+            "t_end": 182.92,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_01_0020",
+            "t_start": 204.92,
+            "t_end": 206.92,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_01_0021",
+            "t_start": 218.72,
+            "t_end": 220.08,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0024",
+            "t_start": 248.76,
+            "t_end": 251.12,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0026",
+            "t_start": 276.46,
+            "t_end": 278.06,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0035",
+            "t_start": 378.02,
+            "t_end": 379.74,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0042",
+            "t_start": 478.32,
+            "t_end": 481.8,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_01_0043",
+            "t_start": 492.14,
+            "t_end": 494.16,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0056",
+            "t_start": 610.44,
+            "t_end": 612.76,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_01_0065",
+            "t_start": 720.24,
+            "t_end": 722.42,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0066",
+            "t_start": 737.2,
+            "t_end": 738.26,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_01_0073",
+            "t_start": 899.36,
+            "t_end": 901.36,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0074",
+            "t_start": 909.22,
+            "t_end": 912.18,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_01_0082",
+            "t_start": 1006.04,
+            "t_end": 1007.24,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0094",
+            "t_start": 1144.78,
+            "t_end": 1146.86,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0097",
+            "t_start": 1183.14,
+            "t_end": 1184.6,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0099",
+            "t_start": 1214.9,
+            "t_end": 1216.2,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0101",
+            "t_start": 1236.76,
+            "t_end": 1237.98,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0107",
+            "t_start": 1301.28,
+            "t_end": 1302.64,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0108",
+            "t_start": 1313.0,
+            "t_end": 1316.98,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_01_0109",
+            "t_start": 1323.92,
+            "t_end": 1328.06,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_01_0110",
+            "t_start": 1337.9,
+            "t_end": 1338.96,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_01_0114",
+            "t_start": 1401.86,
+            "t_end": 1404.62,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_01_0116",
+            "t_start": 1421.9,
+            "t_end": 1423.62,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_01_0119",
+            "t_start": 1436.86,
+            "t_end": 1438.86,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0120",
+            "t_start": 1452.92,
+            "t_end": 1455.86,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0134",
+            "t_start": 1636.88,
+            "t_end": 1639.86,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0137",
+            "t_start": 1683.38,
+            "t_end": 1686.06,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_01_0142",
+            "t_start": 1750.58,
+            "t_end": 1752.08,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\val_01_energy.png"
+      },
+      {
+        "stream_id": "val_02",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\val\\stream_02.h5",
+        "duration_s": 1761.68,
+        "n_frames": 88084,
+        "n_events": 31,
+        "event_categories": {
+          "normal": 19,
+          "low": 7,
+          "needs_review": 3,
+          "low_needs_review": 2
+        },
+        "energy_mean": 0.000326590448870544,
+        "energy_std": 8.841412200936794e-05,
+        "energy_min": 0.0002069492309061409,
+        "energy_p90": 0.00042640070626250216,
+        "energy_p95": 0.0005481322194030823,
+        "energy_p99": 0.0006656607103281459,
+        "max_energy": 0.0008319871217577016,
+        "events": [
+          {
+            "event_id": "val_02_0001",
+            "t_start": 14.16,
+            "t_end": 15.66,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_02_0006",
+            "t_start": 73.54,
+            "t_end": 75.1,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_02_0009",
+            "t_start": 89.52,
+            "t_end": 92.36,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0014",
+            "t_start": 128.24,
+            "t_end": 130.18,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_02_0020",
+            "t_start": 202.74,
+            "t_end": 203.98,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0028",
+            "t_start": 309.9,
+            "t_end": 311.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0032",
+            "t_start": 363.78,
+            "t_end": 365.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0036",
+            "t_start": 414.36,
+            "t_end": 416.72,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0038",
+            "t_start": 430.08,
+            "t_end": 431.34,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_02_0041",
+            "t_start": 457.24,
+            "t_end": 459.24,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0047",
+            "t_start": 533.78,
+            "t_end": 535.62,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0056",
+            "t_start": 641.38,
+            "t_end": 643.32,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0057",
+            "t_start": 651.8,
+            "t_end": 654.66,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0062",
+            "t_start": 721.86,
+            "t_end": 722.9,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_02_0067",
+            "t_start": 774.6,
+            "t_end": 776.82,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0079",
+            "t_start": 906.46,
+            "t_end": 910.3,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0081",
+            "t_start": 933.86,
+            "t_end": 935.98,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0083",
+            "t_start": 1063.9,
+            "t_end": 1065.78,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_02_0085",
+            "t_start": 1078.8,
+            "t_end": 1079.84,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_02_0087",
+            "t_start": 1101.46,
+            "t_end": 1104.32,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_02_0106",
+            "t_start": 1302.84,
+            "t_end": 1304.84,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0108",
+            "t_start": 1332.22,
+            "t_end": 1333.74,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_02_0114",
+            "t_start": 1400.1,
+            "t_end": 1402.24,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_02_0118",
+            "t_start": 1461.46,
+            "t_end": 1464.44,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0119",
+            "t_start": 1476.74,
+            "t_end": 1477.94,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0125",
+            "t_start": 1547.26,
+            "t_end": 1550.26,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_02_0128",
+            "t_start": 1582.04,
+            "t_end": 1583.52,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0130",
+            "t_start": 1606.06,
+            "t_end": 1610.04,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0134",
+            "t_start": 1650.38,
+            "t_end": 1651.24,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_02_0138",
+            "t_start": 1693.6,
+            "t_end": 1694.92,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_02_0143",
+            "t_start": 1753.84,
+            "t_end": 1754.94,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\val_02_energy.png"
+      },
+      {
+        "stream_id": "val_03",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\val\\stream_03.h5",
+        "duration_s": 1770.52,
+        "n_frames": 88526,
+        "n_events": 18,
+        "event_categories": {
+          "normal": 5,
+          "low": 8,
+          "needs_review": 2,
+          "low_needs_review": 3
+        },
+        "energy_mean": 0.00031373633648478503,
+        "energy_std": 5.990314137688328e-05,
+        "energy_min": 0.00020134946061103475,
+        "energy_p90": 0.0004111787526921395,
+        "energy_p95": 0.00042264554750278565,
+        "energy_p99": 0.0005372921385696351,
+        "max_energy": 0.0014771435296014315,
+        "events": [
+          {
+            "event_id": "val_03_0002",
+            "t_start": 31.66,
+            "t_end": 33.54,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_03_0012",
+            "t_start": 158.74,
+            "t_end": 161.14,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_03_0016",
+            "t_start": 207.76,
+            "t_end": 209.04,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_03_0020",
+            "t_start": 249.92,
+            "t_end": 252.4,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_03_0027",
+            "t_start": 331.58,
+            "t_end": 334.1,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_03_0030",
+            "t_start": 369.1,
+            "t_end": 373.52,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_03_0061",
+            "t_start": 1056.78,
+            "t_end": 1059.56,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_03_0062",
+            "t_start": 1067.64,
+            "t_end": 1069.5,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_03_0064",
+            "t_start": 1082.86,
+            "t_end": 1085.5,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_03_0071",
+            "t_start": 1145.64,
+            "t_end": 1148.12,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_03_0087",
+            "t_start": 1321.84,
+            "t_end": 1322.72,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_03_0092",
+            "t_start": 1368.92,
+            "t_end": 1370.66,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_03_0095",
+            "t_start": 1401.8,
+            "t_end": 1402.76,
+            "quality": "low",
+            "needs_review": true,
+            "ignore": false,
+            "category": "low_needs_review"
+          },
+          {
+            "event_id": "val_03_0099",
+            "t_start": 1449.24,
+            "t_end": 1450.38,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_03_0103",
+            "t_start": 1494.16,
+            "t_end": 1495.04,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_03_0110",
+            "t_start": 1575.28,
+            "t_end": 1576.92,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_03_0111",
+            "t_start": 1588.5,
+            "t_end": 1591.04,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          },
+          {
+            "event_id": "val_03_0114",
+            "t_start": 1640.62,
+            "t_end": 1642.84,
+            "quality": "low",
+            "needs_review": false,
+            "ignore": false,
+            "category": "low"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\val_03_energy.png"
+      },
+      {
+        "stream_id": "val_04",
+        "path": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\streams\\val\\stream_04.h5",
+        "duration_s": 311.4,
+        "n_frames": 15570,
+        "n_events": 5,
+        "event_categories": {
+          "normal": 4,
+          "low": 0,
+          "needs_review": 1,
+          "low_needs_review": 0
+        },
+        "energy_mean": 0.0003336708743408892,
+        "energy_std": 8.99228534044082e-05,
+        "energy_min": 0.0002233766628205926,
+        "energy_p90": 0.000489169850440789,
+        "energy_p95": 0.0005960501544622697,
+        "energy_p99": 0.0006184370651296882,
+        "max_energy": 0.00073453842392263,
+        "events": [
+          {
+            "event_id": "val_04_0002",
+            "t_start": 25.64,
+            "t_end": 26.9,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_04_0004",
+            "t_start": 39.08,
+            "t_end": 41.08,
+            "quality": "normal",
+            "needs_review": true,
+            "ignore": false,
+            "category": "needs_review"
+          },
+          {
+            "event_id": "val_04_0007",
+            "t_start": 63.36,
+            "t_end": 65.04,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_04_0016",
+            "t_start": 153.0,
+            "t_end": 155.66,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          },
+          {
+            "event_id": "val_04_0018",
+            "t_start": 172.56,
+            "t_end": 174.3,
+            "quality": "normal",
+            "needs_review": false,
+            "ignore": false,
+            "category": "normal"
+          }
+        ],
+        "energy_plot": "C:\\Users\\ASUS\\Downloads\\abc2027_uwb_train_v1\\abc2027_uwb_train_v1\\outputs\\stream_energy_plots\\val_04_energy.png"
+      }
+    ],
+    "n_streams": 18,
+    "n_events": 478
+  },
+  "report": {
+    "theta": 0.3,
+    "tolerances_s": [
+      0.5,
+      1.0
+    ],
+    "ranking_score": {
+      "f1_mean": 0.1636520241171404,
+      "start_error_median_abs": 0.3199999999999932,
+      "false_alarms_per_hour": 12.149643104233814
+    },
+    "latency": {
+      "theta": 0.3,
+      "mean": 0.4529411764705691,
+      "median": 0.30999999999997385
+    },
+    "primary": {
+      "theta": 0.3,
+      "tp": 34,
+      "fp": 100,
+      "fn": 219,
+      "precision": 0.2537313432835821,
+      "recall": 0.13438735177865613,
+      "f1": 0.1757105943152455,
+      "false_alarms_per_hour": 12.149643104233814,
+      "start_error_mean_abs": 0.5164705882352707,
+      "start_error_median_abs": 0.3199999999999932,
+      "end_error_mean_abs": 0.39764705882351215,
+      "end_error_median_abs": 0.3499999999999659,
+      "mean_tiou": 0.5674563389685907,
+      "latency_mean": 0.4529411764705691,
+      "latency_median": 0.30999999999997385,
+      "n_ignored_ground_truth": 225,
+      "n_ignored_predictions": 6,
+      "start_within_0.5": 0.7058823529411765,
+      "end_within_0.5": 0.6764705882352942,
+      "start_within_1.0": 0.8235294117647058,
+      "end_within_1.0": 0.9411764705882353
+    },
+    "by_theta": {
+      "0.1": {
+        "theta": 0.1,
+        "tp": 36,
+        "fp": 98,
+        "fn": 217,
+        "precision": 0.26865671641791045,
+        "recall": 0.1422924901185771,
+        "f1": 0.18604651162790697,
+        "false_alarms_per_hour": 11.906650242149137,
+        "start_error_mean_abs": 0.541111111111091,
+        "start_error_median_abs": 0.3599999999999568,
+        "end_error_mean_abs": 0.4377777777777617,
+        "end_error_median_abs": 0.37000000000000455,
+        "mean_tiou": 0.5499201278375196,
+        "latency_mean": 0.48111111111109506,
+        "latency_median": 0.3199999999999932,
+        "n_ignored_ground_truth": 225,
+        "n_ignored_predictions": 6,
+        "start_within_0.5": 0.6666666666666666,
+        "end_within_0.5": 0.6388888888888888,
+        "start_within_1.0": 0.8055555555555556,
+        "end_within_1.0": 0.8888888888888888
+      },
+      "0.3": {
+        "theta": 0.3,
+        "tp": 34,
+        "fp": 100,
+        "fn": 219,
+        "precision": 0.2537313432835821,
+        "recall": 0.13438735177865613,
+        "f1": 0.1757105943152455,
+        "false_alarms_per_hour": 12.149643104233814,
+        "start_error_mean_abs": 0.5164705882352707,
+        "start_error_median_abs": 0.3199999999999932,
+        "end_error_mean_abs": 0.39764705882351215,
+        "end_error_median_abs": 0.3499999999999659,
+        "mean_tiou": 0.5674563389685907,
+        "latency_mean": 0.4529411764705691,
+        "latency_median": 0.30999999999997385,
+        "n_ignored_ground_truth": 225,
+        "n_ignored_predictions": 6,
+        "start_within_0.5": 0.7058823529411765,
+        "end_within_0.5": 0.6764705882352942,
+        "start_within_1.0": 0.8235294117647058,
+        "end_within_1.0": 0.9411764705882353
+      },
+      "0.5": {
+        "theta": 0.5,
+        "tp": 25,
+        "fp": 109,
+        "fn": 228,
+        "precision": 0.1865671641791045,
+        "recall": 0.09881422924901186,
+        "f1": 0.12919896640826872,
+        "false_alarms_per_hour": 13.243110983614857,
+        "start_error_mean_abs": 0.32159999999997796,
+        "start_error_median_abs": 0.2599999999999909,
+        "end_error_mean_abs": 0.3423999999999796,
+        "end_error_median_abs": 0.3200000000000074,
+        "mean_tiou": 0.6332182851295234,
+        "latency_mean": 0.32159999999997796,
+        "latency_median": 0.2599999999999909,
+        "n_ignored_ground_truth": 225,
+        "n_ignored_predictions": 6,
+        "start_within_0.5": 0.92,
+        "end_within_0.5": 0.76,
+        "start_within_1.0": 1.0,
+        "end_within_1.0": 0.96
+      },
+      "0.7": {
+        "theta": 0.7,
+        "tp": 6,
+        "fp": 128,
+        "fn": 247,
+        "precision": 0.04477611940298507,
+        "recall": 0.023715415019762844,
+        "f1": 0.031007751937984492,
+        "false_alarms_per_hour": 15.551543173419283,
+        "start_error_mean_abs": 0.2066666666666587,
+        "start_error_median_abs": 0.2400000000000091,
+        "end_error_mean_abs": 0.1433333333333072,
+        "end_error_median_abs": 0.07999999999992724,
+        "mean_tiou": 0.7911943631232267,
+        "latency_mean": 0.2066666666666587,
+        "latency_median": 0.2400000000000091,
+        "n_ignored_ground_truth": 225,
+        "n_ignored_predictions": 6,
+        "start_within_0.5": 1.0,
+        "end_within_0.5": 1.0,
+        "start_within_1.0": 1.0,
+        "end_within_1.0": 1.0
+      }
+    },
+    "ranking": {
+      "primary": "mean event F1 at theta 0.1, 0.3 and 0.5",
+      "tie_break_1": "median absolute start error on true positives at theta 0.3, lower is better",
+      "tie_break_2": "false alarms per hour at theta 0.3, lower is better"
+    }
+  }
+}
