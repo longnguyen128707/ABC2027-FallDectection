@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: abc2027
+Version: 0.1.0
+Summary: ABC2027 UWB Challenge: Fall detection in continuous radar streams
+License: CC BY-NC 4.0
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: numpy==2.5.3
+Requires-Dist: scipy==1.18.1
+Requires-Dist: matplotlib==3.11.2
+Requires-Dist: h5py==3.16.0
+Requires-Dist: pytest==9.1.1
+Requires-Dist: scikit-learn==1.7.2
+Requires-Dist: nbconvert==7.17.1
+Requires-Dist: nbclient==0.11.0
+Requires-Dist: nbformat==5.11.1
+Requires-Dist: ipykernel==6.30.1
+Requires-Dist: jupyter-client==8.6.3
+Dynamic: license-file
